@@ -1,0 +1,10 @@
+span.tag {
+    font-size: 14px;
+    color: white;
+    background-color: #4286f4ea;
+    border-radius: 4px;
+    padding: 4px 8px;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+}
